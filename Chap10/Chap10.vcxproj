@@ -130,7 +130,7 @@
     <ClCompile Include="ch10-structure.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="ch10-pointer.c" />
+    <ClCompile Include="ch10-pntst.c" />
     <ClCompile Include="contact.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -21,7 +21,7 @@
     <ClCompile Include="contact.h">
       <Filter>헤더 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ch10-pointer.c">
+    <ClCompile Include="ch10-pntst.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

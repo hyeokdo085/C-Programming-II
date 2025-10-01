@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ch07-01.c">
+    <ClCompile Include="ch07-hello.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ch07-02.c">
+    <ClCompile Include="ch07-arrcpy.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -15,31 +15,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ch09-01.c">
+    <ClCompile Include="ch10-ass01.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ch09-02.c">
+    <ClCompile Include="ch10-ass03.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ch09-03.c">
+    <ClCompile Include="ch10-ass08.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ch09-04.c">
+    <ClCompile Include="ch10-ass13.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ch09-05.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch09-06.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch09-07.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch09-08.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch09-str.c">
+    <ClCompile Include="ch10-ass18.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

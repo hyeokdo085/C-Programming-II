@@ -127,8 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ch08-01.c" />
-    <ClCompile Include="ch08-02.c" />
+    <ClCompile Include="ch08-pointer.c" />
+    <ClCompile Include="ch08-swap.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
