@@ -18,5 +18,20 @@
     <ClCompile Include="ch08-Ass01.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ch08-Ass02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch08-Ass05.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch08-Ass06.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch08-Ass11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch08-Ass12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
